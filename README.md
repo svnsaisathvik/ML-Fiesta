@@ -62,4 +62,5 @@ The ASR and QA pipeline demonstrated high transcription accuracy for colloquial 
 
 ## Resources
 
-An in-depth video tutorial on this project is available on our YouTube channel. Check it out here: **[YouTube Video](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)**.
+An in-depth video tutorial on this project is available on our YouTube channel. Check it out here: **[YouTube Video](https://youtu.be/4je_JOscYZU?si=YRcaMT1tZeQ7r2qC))**.
+The organised structure of data link : **[Drive Link](https://drive.google.com/drive/folders/1Xp0yyBYsw1M7u_TJY9kzYRJWdUqalK_5?usp=sharing)**
